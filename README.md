@@ -33,4 +33,13 @@ El archivo `index.html` tiene la siguiente estructura:
     <div class="gris col-xs-12"></div>
 </body>
 </html>
+Descripción del CSS
+El archivo CSS media.css contiene las siguientes secciones:
 
+Reset de estilos por defecto: Para asegurar que todos los elementos tengan un margen y padding de 0 y que el box-sizing sea border-box.
+css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
